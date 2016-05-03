@@ -9,6 +9,7 @@ public class Hello {
 		// TODO Auto-generated method stub
            System.out.println("Hello World gg");
            int a=100;
+           int b=100:
 	}
 
 }
